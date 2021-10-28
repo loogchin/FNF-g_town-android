@@ -296,7 +296,7 @@ class StoryMenuState extends MusicBeatState
 				{
 					if (curWeek == 0) // ADD CUTCENES By Nong vanila ล.ช. And Dj l land Ch is imposter lol
 					{
-						FlxG.switchState(new VideoState('assets/videos/cut1.webm', new PlayState()));
+						LoadingState.loadAndSwitchState(new VideoState('assets/videos/cut1.webm', new PlayState()));
 					}
 					else
 					{
