@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bluefinal.png"><SubTexture name="bluefinalidle0000" x="0" y="0" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalidle0001" x="696" y="0" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalidle0002" x="1392" y="0" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalright0000" x="0" y="681" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalright0001" x="696" y="681" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinaldown0000" x="1392" y="681" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinaldown0001" x="0" y="1362" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalleft0000" x="696" y="1362" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalleft0001" x="1392" y="1362" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalup0000" x="0" y="2043" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+<SubTexture name="bluefinalup0001" x="696" y="2043" width="696" height="681" frameX="0" frameY="0" frameWidth="696" frameHeight="681" />
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Who lmposter:g_red:7
+die to rip:g_blue:8
+die:g_bluefinal:9

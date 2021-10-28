@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blue.png"><SubTexture name="blueidle0000" x="0" y="0" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueidle0001" x="368" y="0" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueidle0002" x="736" y="0" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueidle0003" x="0" y="329" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueright0000" x="368" y="329" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueright0001" x="736" y="329" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueleft0000" x="0" y="658" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueleft0001" x="368" y="658" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="bluedown0000" x="736" y="658" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="bluedown0001" x="0" y="987" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueup0000" x="368" y="987" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+<SubTexture name="blueup0001" x="736" y="987" width="368" height="329" frameX="0" frameY="0" frameWidth="368" frameHeight="329" />
+</TextureAtlas>
